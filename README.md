@@ -1,16 +1,6 @@
-# app
+# Charity Nest
 
-A new Flutter project.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shadsheikh.charitynest)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Its objective is to handle donations and connect the donators with the nearest organisations through a social mobile application. The application handles different services such as the reviews of the searched needy person and displays their contacts and their location. This application is aimed to help the society and create a sense of solidarity through modern techniques. This Application is designed to provide the necessary information for people to take the initiative and support organizations. It’s a platform where organizations can share their needs and people can voluntarily provide them with all the essential things. Requirements will be updated by organizations so that it can be easy for donors to acknowledge the needs. It will provide one to one interaction between donors and organizations
+It will have a transparency between organisations and donors.
